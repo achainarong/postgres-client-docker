@@ -1,0 +1,7 @@
+# Build the container
+
+```shell
+
+  docker build -t postgres-client ./alpine
+
+```
